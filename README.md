@@ -26,6 +26,7 @@
 |--------|------|--------|------|
 | 🔐 Hacking Roadmap Repo | Shell · Notes · Pentesting | Ongoing | 🔗 [repo](https://github.com/juanan04/hacking-roadmap) |
 | 📚 Library Management App | Java + JPA + JS | Completed | 🔗 [repo](https://github.com/juanan04/Library2024)  |
+| 📚 Cosmic Idle Clicker | React + Vite + TS | Completed | 🔗 [repo]([https://github.com/juanan04/Library2024](https://github.com/juanan04/CosmicIdleClicker))  |
 | 🧩 Personal Productivity App (ToDo + AI) | Spring + React + GPT | *Building next* | 🔗 Soon... |
 
 > Next: A legal-document analyzer & contract generator using AI.
